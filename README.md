@@ -19,8 +19,10 @@ print(myList)
 
 ```
 
-Test Data:
+Test Data
 =
+
+Expected Output:
 
 ```
 [2, 4, 6, 8, 10]
